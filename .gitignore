@@ -6,3 +6,5 @@
 /opencore-*.txt
 
 /EFI/APPLE/FIRMWARE
+
+._*
