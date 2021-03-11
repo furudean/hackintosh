@@ -965,6 +965,8 @@
 			<string>C02SR7ZYGG7L</string>
 			<key>SystemUUID</key>
 			<string>EEB94172-13E9-4D83-AD48-A78999E07F9A</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1012,6 +1014,8 @@
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
 			<integer>0</integer>
+			<key>ResetTrafficClass</key>
+			<false/>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
@@ -1027,8 +1031,6 @@
 			<false/>
 			<key>KeyForgetThreshold</key>
 			<integer>5</integer>
-			<key>KeyMergeThreshold</key>
-			<integer>2</integer>
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
@@ -1067,6 +1069,8 @@
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
+			<false/>
+			<key>GopPassThrough</key>
 			<false/>
 		</dict>
 		<key>ProtocolOverrides</key>
@@ -1123,6 +1127,8 @@
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
+			<false/>
+			<key>ActivateHpetSupport</key>
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>

@@ -26,19 +26,19 @@
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		7CVaggbWo/3CpKJvfZ3/a8iRVItvP5qpKaNcc0fh0qE=
+		35kdlxU+96OCqEIVPwlz+S7xDHc5nnld4/BKOj8Esio=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		nZnMogsCT8SQEZqFHxvMaqrv4GlZuTfEYAnQoaQxnL4=
+		/kGoGpoXcQyl73UUXUy+bmWeDvB6Zen0tyGHjgRUZL4=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		CeROS/irn87uqyjHgmRbaZwBMZCoV0lW5+G37RxfI3Q=
+		yvxhYRbYSK5/zMZGqg4ms6HGNG4QmFt2KStrShBcRDE=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		+AfoNMkJL1BQl+3FGyXUV39ZIgrO6H/lsfqj7HA8GO0=
+		pjoGohI9dmV0SQ3UNrZBovtHPtMFNQbORm6YoCvwx4Q=
 		</data>
 		<key>Kexts\AtherosE2200Ethernet.kext\Contents\Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\Info.plist</key>
 		<data>
-		nX5TIaYaW8zePY3JBjtpSMEsPNlmEmr/zXq/eCVuME0=
+		viJVvXpX1rrqFyTlRhST5IzzEKdel/fzE2ZaXDa0fPw=
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\MacOS\BrcmFirmwareData</key>
 		<data>
-		tIfQkhr8xMTRqHJURibTZfGu0skspsjlgXhXqJx/oAQ=
+		Y/Wxe3wEpNxDFEOTXxxpZgk3yx3m3qYcgX8yAgxrTeU=
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\_CodeSignature\CodeResources</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
 		<data>
-		6iRnj+iziJ0+FIVYE9dz8lq4kvF6pLfF10IniNQhkbk=
+		leDnKfdadbZ0d2+QRPGdz3u9YxMw9UKjik0bayWBJz0=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\MacOS\BrcmPatchRAM3</key>
 		<data>
-		1MWddwCi5xNtPtw9XfnebQOvud3iFzB7eTrItkP3xWc=
+		S8n96FJsoDgqniS+huhdeFfUWYjVguRpJRQNM13Fi84=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\_CodeSignature\CodeResources</key>
 		<data>
@@ -86,19 +86,19 @@
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		/vSix4rRzanmhNUHDAWCrxeLBwlBEClWS/1yNu9XNUU=
+		HeR6/F2vZRpheiB8s6SBbqfh52eSy4J9u7ML6CgUii4=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		HyTBapaCPbBJyNw4kZ7cFx0faV7IDIVgtIv9Uwul9B4=
+		HK2kLJI3axbT5OS2JwdIVihL7vJqKXbr9V3o0OU1X28=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		lfNnNVWB07QMM7xan5bj4QM3uWIdkYwv41RSgrFgKrg=
+		/QxOR6luGkuFcmM2yV+HarIgF4lOZVFWhG12rdF4kCo=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		FJvrHjHWenuz7LFnPjliCG+Vx4lhhGPmgLX/z+9jY/Y=
+		3r/kxXvxASYEVuIfkO6RetWKAOH7KnqYwWMba/xakvY=
 		</data>
 		<key>Kexts\USBInjectAll.kext\Contents\Info.plist</key>
 		<data>
@@ -118,19 +118,19 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		mOcLT7e3b1WKMZCdvh6zlVg5MAPVNWxfd3se+/4E8eI=
+		LvYXX+A7nZBYuq8Zjora1wVjpiu9I06Bnr4amXq3LTA=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		3Z3NSWcvdpzl9sRnOgst9tcDRY7c5HdbG2O2HvOylnQ=
+		gkeiLeM9K51/uhCFO+GttqbP58OeRCSHU4i/xnNnd8s=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		Oi1HXc8BUbEXJktA3WLqt1sP4MRaltjKmrE7BPuCuaw=
+		6PLP/L+JmiW8xRC7YMR/0lYZR1XloCLbckorP3QAm58=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		3wjJhsnp9LM1RbfdFSJ+W8TOfP1GaAeN8wxTGs8UNQ4=
+		TapDHO36o2ah1OosxN8uY54myaZ+gGx8KUcZ422OHlk=
 		</data>
 		<key>Resources\Audio\AXEFIAudio_Beep.mp3</key>
 		<data>
@@ -1790,11 +1790,11 @@
 		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
-		XU8sKSnt8fI0X9PyALr/RflA4Xl34QXtTpG+b35D8qk=
+		JstWN0rDAX9cjFrxCYnv1cc1QZIcWb2qtEFq5vPD6vk=
 		</data>
 		<key>config.plist</key>
 		<data>
-		YxRBi3tCC5xpowkSMuB2YzbouHW4I+NGTc9iegvdPOw=
+		5+GJxhMabuoMKw/dLAF9fWD64Byc4FN9knmrxqQFCN8=
 		</data>
 	</dict>
 	<key>Version</key>
