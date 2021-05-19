@@ -722,7 +722,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -950,11 +950,11 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02540108QXGPF7A8</string>
+			<string>C02518101J9GPF7UE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>pNGM3Vh0</data>
+			<data>AAonEjRW</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -962,9 +962,9 @@
 			<key>SystemProductName</key>
 			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SR7ZYGG7L</string>
+			<string>C02PN0VYGG7L</string>
 			<key>SystemUUID</key>
-			<string>EEB94172-13E9-4D83-AD48-A78999E07F9A</string>
+			<string>0520F33F-11C8-4A22-B2B1-B6DBC5679CC9</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 		</dict>
