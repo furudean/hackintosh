@@ -54,51 +54,43 @@
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\Info.plist</key>
 		<data>
-		viJVvXpX1rrqFyTlRhST5IzzEKdel/fzE2ZaXDa0fPw=
+		XwOkAuMqc/07wn24RG/oB4tuNVDfnQg/PLYuu6gldCI=
 		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\MacOS\BrcmFirmwareData</key>
 		<data>
-		Y/Wxe3wEpNxDFEOTXxxpZgk3yx3m3qYcgX8yAgxrTeU=
-		</data>
-		<key>Kexts\BrcmFirmwareData.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		pQzSH7lnMijJSTHba23tB27dfqnPgJ5cKGxL3PG4A2Q=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\Info.plist</key>
 		<data>
-		leDnKfdadbZ0d2+QRPGdz3u9YxMw9UKjik0bayWBJz0=
+		cwzDQwy7jhmqWk4NSWXKIq2rsnMkq3Kc5nIVkPsZTSU=
 		</data>
 		<key>Kexts\BrcmPatchRAM3.kext\Contents\MacOS\BrcmPatchRAM3</key>
 		<data>
-		S8n96FJsoDgqniS+huhdeFfUWYjVguRpJRQNM13Fi84=
-		</data>
-		<key>Kexts\BrcmPatchRAM3.kext\Contents\_CodeSignature\CodeResources</key>
-		<data>
-		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		cMWS6ltNLQik9Y0GS7NAxlT1MzdmYKXhbux1r+8HVSE=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		DbVNpptMrOIfXkglNnFW0VJ2NLCVQz33tcUdBJrsg4g=
+		a62S23qEq+mpD5rcZaK2E2mk+LxhQKqHdCntvM7C9ZM=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		uTLHKTBkS6dvV8d6nR21ppJOr5FacW+6N0k302oSPTo=
+		Eg2OHLnE6H06OSPIETJrvsah5KTQQczIgPq8hMZ4dqM=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		HeR6/F2vZRpheiB8s6SBbqfh52eSy4J9u7ML6CgUii4=
+		f/PhRPqt76/XHCw8I6fcgxihQWjXoleD5v7XAl7plfE=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		HK2kLJI3axbT5OS2JwdIVihL7vJqKXbr9V3o0OU1X28=
+		Anhtftq0g3Dskqs5iqVhwlsHcj8+tdmcZXqFjHL2MAA=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		/QxOR6luGkuFcmM2yV+HarIgF4lOZVFWhG12rdF4kCo=
+		MdLPc2e5BMd2WzD828h0N5+mXIaIdrwAHT5jjbk8NaU=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		3r/kxXvxASYEVuIfkO6RetWKAOH7KnqYwWMba/xakvY=
+		I6mmaFK703Yurxl9S/CswmapiNU+4xp4p51m77S9vgs=
 		</data>
 		<key>Kexts\USBInjectAll.kext\Contents\Info.plist</key>
 		<data>
@@ -118,19 +110,19 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		LvYXX+A7nZBYuq8Zjora1wVjpiu9I06Bnr4amXq3LTA=
+		a6XGT74TWaSPjPo17GURpwEX2ST99hPg3qp5mVI5km0=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		gkeiLeM9K51/uhCFO+GttqbP58OeRCSHU4i/xnNnd8s=
+		01vUbv9feZtNYKRYKzmlihJ7cTo3xpwsWjdw0RnThPA=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		6PLP/L+JmiW8xRC7YMR/0lYZR1XloCLbckorP3QAm58=
+		bexYBsEgBfdKMd2pT3EkmSuKOBLbBdIVcVpRQ2dOVek=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		TapDHO36o2ah1OosxN8uY54myaZ+gGx8KUcZ422OHlk=
+		zLe0U8bxtKE6CmKyDcfqxM9WCTEq/lbHx0oejOYIf2U=
 		</data>
 		<key>Resources\Audio\AXEFIAudio_Beep.mp3</key>
 		<data>
