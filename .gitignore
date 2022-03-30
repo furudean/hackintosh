@@ -4,7 +4,7 @@
 .fseventsd
 
 /opencore-*.txt
-
 /EFI/APPLE/FIRMWARE
-
 ._*
+
+.vscode
