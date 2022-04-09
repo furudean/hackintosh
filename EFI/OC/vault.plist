@@ -52,6 +52,14 @@
 		<data>
 		Oc8u4Ht7Mz58F50L9NeYpbcq9qTlhPUeZCcDu/pPyCg=
 		</data>
+		<key>Kexts\BlueToolFixup.kext\Contents\Info.plist</key>
+		<data>
+		sdU41ajxEELG+I9YRj7DdpxkRE/ZcyaExg3yAhF586o=
+		</data>
+		<key>Kexts\BlueToolFixup.kext\Contents\MacOS\BlueToolFixup</key>
+		<data>
+		99120orTB5P7TkwxDlqtboN+YSZ/cTkXH1Kvkz9NzRk=
+		</data>
 		<key>Kexts\BrcmFirmwareData.kext\Contents\Info.plist</key>
 		<data>
 		XwOkAuMqc/07wn24RG/oB4tuNVDfnQg/PLYuu6gldCI=
@@ -1934,7 +1942,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		prPOXjlVNCiJVcNHIbXOvFsDUzfbnS3qfJ1QkcPDF6c=
+		AQeGQIuQf+9Vy0gv1uHyCLbVSujAlCq+uJNp7UizHXQ=
 		</data>
 	</dict>
 	<key>Version</key>
