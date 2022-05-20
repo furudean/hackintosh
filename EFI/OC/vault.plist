@@ -20,13 +20,13 @@
 		<data>
 		rLo0I5uvSsUbVaqWIxEceBp0abTBHKNPrnt6M59aP+A=
 		</data>
-		<key>Drivers\HfsPlus.efi</key>
-		<data>
-		WIe9YMNtVnvhJ0hzlmNWsX/dx3Qt88Vft44QcbXsv+0=
-		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		r6R6+kpJmeovgzw9YJ3o4CHfwJqa2nzSDqbBLSDpT/Q=
+		tRHD8ecApp5bFRNsRbtEeByx1lIJhOtF0y39j6H4ims=
+		</data>
+		<key>Drivers\OpenHfsPlus.efi</key>
+		<data>
+		f96g4a69zQ9Q+20j8OVNLcj0gSVfhBNLBTphr7xo9OI=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
@@ -1942,7 +1942,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		AQeGQIuQf+9Vy0gv1uHyCLbVSujAlCq+uJNp7UizHXQ=
+		Z1/98LI6+tae2lJAcxqJ9HUi+24fhxPEFX2fM8WiKnU=
 		</data>
 	</dict>
 	<key>Version</key>
